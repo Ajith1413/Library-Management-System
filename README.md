@@ -1,6 +1,6 @@
 # Library-Management-System
-# Reg No:
-# Name:
+# Reg No:212223230009
+# Name: AJITH KUMAR A
 # Date:
 
 
@@ -117,10 +117,25 @@ Model the logic of a sophisticated procedure, function, or operation. See how ob
 
 Plan and understand the detailed functionality of an existing or future scenario.
 
+## UML DIAGRAM:
 
+## USE CASE DIAGRAM
 
+<img width="520" height="407" alt="image" src="https://github.com/user-attachments/assets/0310bda2-9bd1-4f6c-b89a-ae3ff04125d0" />
 
+## CLASS DIAGRAM:
 
+<img width="519" height="296" alt="image" src="https://github.com/user-attachments/assets/963e71d9-4e5f-4bf4-8d58-bf666281f2f5" />
+
+## SEQUENCE DIAGRAM:
+<img width="477" height="734" alt="image" src="https://github.com/user-attachments/assets/e9fb3fc3-c802-4bde-85fe-cb2eb37e4119" />
+
+## PACKAGE DIAGRAM:
+<img width="526" height="355" alt="image" src="https://github.com/user-attachments/assets/f71bbf79-6997-4238-9582-db309f73a6c1" />
+## COMMUNICATION DIAGRAM:
+<img width="515" height="270" alt="image" src="https://github.com/user-attachments/assets/3bb42d00-4456-4b4e-b88c-f3f30a35836e" />
+## ACTIVITY DIAGRAM:
+<img width="506" height="524" alt="image" src="https://github.com/user-attachments/assets/477b682e-4db3-44bc-b6fb-0962fa593e4f" />
 
 # RESULT
 
